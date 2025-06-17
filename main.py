@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 import logic
 
-API_TOKEN = '7271891115:AAESilMa5WqDjjpK28DiXSS08o9aKbh5U_Q'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
